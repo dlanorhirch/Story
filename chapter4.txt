@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 In the year 2020, aliens will inherit the earth.
+=======
+The aliens have landed and taken over the city of Las Vagas.  They love gambling and have quickly become addicted.  This seems to be their only weakness.
+>>>>>>> 22607dd07629ef93ef4c31ee8e3cfb0f0ba8c5bb
